@@ -1,0 +1,2 @@
+dl -f "bestvideo[ext=mp4]+bestaudio[ext=mp3]/mp4" --no-check-certificate --no-post-overwrites --restrict-filenames -w -i -o "T:\Dropbox\2. PERSONAL\HIENTRUNG\KARAOKE\TOOLS\FOR YOUTUBE COURSE\UPLOADED\%%(title)s.%%(ext)s" https://youtu.be/X3_xek_-uuY
+REM dl -f "bestvideo[ext=mp4]+bestaudio[ext=mp3]/mp4" -w -i -o "T:\Dropbox\2. PERSONAL\HIENTRUNG\KARAOKE\TOOLS\FOR YOUTUBE COURSE\UPLOADED\%%(title)s.%%(ext)s" https://youtu.be/n08zdJBSktQ
