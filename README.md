@@ -12,4 +12,4 @@ YTAutomate is a software that allows users to automate all basic YouTube tasks w
       updating own comments or replies
       holding comments for later review
       deleting comments on YouTube videos
-Visit website for more information: https://ytautomate.wordpress.com/
+Visit website for more information: www.ytseoblaster.com
